@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Galih Agung Sukmawan 
 
-I'm a passionate Android Mobile development especially in Flutter. I have a background in Informatics Engineering. I am always eager to learn new things that interest me and new technologies.
+I'm a passionate Android Mobile development especially in Flutter. I have a background in Informatics Engineering. I'm always learning new things that interest me and new technologies.
 
 Scuderia Ferrari F1 Team Fans
 
